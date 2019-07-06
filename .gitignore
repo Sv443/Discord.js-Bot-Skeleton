@@ -1,0 +1,6 @@
+# This prevents you from accidentally uploading your bot token to GitHub, where it can be used to hijack your bot to share bad URLs with other users (yes that happens and it has already happened to me)
+.env
+
+# Standard shit:
+node_modules
+package-lock.json
