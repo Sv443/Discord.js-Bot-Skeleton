@@ -1,10 +1,13 @@
 # Discord.js-Bot-Skeleton
 [For beginners] This is the bare skeleton you need for a Discord bot - it covers most of the quirks of the Discord API that you normally need weeks to find out
-
+<br>
+WTFPL license - do whatever you wanna do with this code, you don't even have to credit me!
 
 <br><br><br><br>
 
 # Instructions to install and run the bot:
+Download or clone the repository and follow these steps to set up and run your bot:
+
 1. Open the terminal and run `npm i` to install the packages
 2. Open the `.env` file and enter your bot token there (you get it from the discord developer page)
 3. Invite your bot to a guild by using this URL (insert client ID first): `https://discordapp.com/oauth2/authorize?client_id=[CLIENT ID HERE]&scope=bot&permissions=8`
