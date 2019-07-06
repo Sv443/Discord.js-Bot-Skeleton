@@ -1,5 +1,5 @@
 # Discord.js-Bot-Skeleton
-[For beginners] This is the bare skeleton you need for a Discord bot - it covers most of the quirks of the Discord API that you normally need weeks to find out
+## This is the bare skeleton you need for a Discord bot - it covers most of the quirks of the Discord API that you normally need weeks to find out
 <br><br>
 WTFPL license - do whatever you wanna do with this code, you don't even have to credit me!
 
