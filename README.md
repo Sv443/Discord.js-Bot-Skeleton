@@ -18,13 +18,13 @@ Download or clone the repository and follow these steps to set up and run your b
 
 # Nice to know things:
 - If you publish your bot token somewhere, people **will** hijack your bot. This has happened to me and some of my friends. The hijackers will run a second instance of your bot (which is possible) and send DMs to random users containing a malicious URL. If you notice anything like that, make sure to re-generate the bot token on the [Discord Developer Portal](https://discordapp.com/developers/applications/) and to never ever publish it anywhere again.  
-    >
-    > <details><summary>Click to view an example of such a message</summary>
-    >
-    > ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example.png)
-    >
-    > </details>
-    >
+  >
+  > <details><summary>Click here to view an example of such a message</summary>
+  >
+  > ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example.png)
+  >
+  > </details>
+  >
 - The Discord API is really unstable and can throw many client errors. This is mostly covered by the error catcher in the code but if you are still getting crashes, you might wanna check out my package [Node-Wrap](https://npmjs.org/package/node-wrap) - it will restart your bot on crash and also provides the ability to easily and quickly restart your bot. For a practical example of how to use Node-Wrap, check out the bots mentioned further down this list.
 - You might wanna read through the [Discord API documentation](https://discordapp.com/developers/docs/intro), the [Discord.js documentation](https://discord.js.org/#/docs/main/stable/general/welcome) and the [Discord.js guide](https://discordjs.guide/#before-you-begin).
 - If you want some other practical examples to look at, you might wanna check out the bots of the [Jabrils Community](https://github.com/Jabrils-Discord-Server), or [my own bot, sBot](https://github.com/Sv443/sBot) - you can also [join the Discord server of the Jabrils Community](https://discord.gg/EZagHBx) to get help while you are coding your bot.
