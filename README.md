@@ -19,7 +19,7 @@ Download or clone the repository and follow these steps to set up and run your b
 # Nice to know things:
 - If you publish your bot token somewhere, people **will** hijack your bot. This has happened to me and some of my friends. The hijackers will run a second instance of your bot (which is possible) and send DMs to random users containing a malicious URL. If you notice anything like that, make sure to re-generate the bot token on the [Discord Developer Portal](https://discordapp.com/developers/applications/) and to never ever publish it anywhere again.  
   >
-  > <details><summary>Click here to view an example of such a message</summary>
+  > <details><summary>Click here to view some of these messages</summary>
   >
   > ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example.png) ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example_2.png)
   >
