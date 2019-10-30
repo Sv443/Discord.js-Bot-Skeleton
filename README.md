@@ -21,7 +21,7 @@ Download or clone the repository and follow these steps to set up and run your b
   >
   > <details><summary>Click here to view an example of such a message</summary>
   >
-  > ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example.png)
+  > ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example.png) ![image](https://sv443.net/cdn/other/discord_bot_token_not_hidden_example_2.png)
   >
   > </details>
   >
