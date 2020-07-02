@@ -5,6 +5,9 @@ WTFPL license - do whatever you wanna do with this code, you don't even have to 
 
 <br><br><br>
 
+# WARNING
+This project is outdated and will probably not work with the current version v12
+
 # Instructions to install and run the bot:
 Download or clone the repository and follow these steps to set up and run your bot:
 
